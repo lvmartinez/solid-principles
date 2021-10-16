@@ -1,0 +1,16 @@
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\SOLID.SRP.exe
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\SOLID.SRP.deps.json
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\SOLID.SRP.runtimeconfig.json
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\SOLID.SRP.runtimeconfig.dev.json
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\SOLID.SRP.dll
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\ref\SOLID.SRP.dll
+C:\cursos\csharp\SOLID\SOLID.SRP\bin\Debug\net5.0\SOLID.SRP.pdb
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.csproj.AssemblyReference.cache
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.AssemblyInfoInputs.cache
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.AssemblyInfo.cs
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.csproj.CoreCompileInputs.cache
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.dll
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\ref\SOLID.SRP.dll
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.pdb
+C:\cursos\csharp\SOLID\SOLID.SRP\obj\Debug\net5.0\SOLID.SRP.genruntimeconfig.cache

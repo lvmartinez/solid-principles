@@ -1,0 +1,2 @@
+StudentId: 1, Student Name: Lucia M, Subject: Spanish, Grade: 78
+StudentId: 1, Student Name: Lucia M, Subject: French, Grade: 85
