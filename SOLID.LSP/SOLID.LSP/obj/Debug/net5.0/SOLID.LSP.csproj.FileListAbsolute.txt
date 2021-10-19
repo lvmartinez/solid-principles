@@ -1,0 +1,16 @@
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.exe
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.deps.json
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.runtimeconfig.json
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.runtimeconfig.dev.json
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.dll
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\ref\SOLID.LSP.dll
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\bin\Debug\net5.0\SOLID.LSP.pdb
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.csproj.AssemblyReference.cache
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.AssemblyInfoInputs.cache
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.AssemblyInfo.cs
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.csproj.CoreCompileInputs.cache
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.dll
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\ref\SOLID.LSP.dll
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.pdb
+C:\cursos\csharp\SOLID\solid-principles\SOLID.LSP\SOLID.LSP\obj\Debug\net5.0\SOLID.LSP.genruntimeconfig.cache
